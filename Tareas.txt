@@ -1,0 +1,11 @@
+Tareas: objetos, herencia, polimorfismos, clases abstractas, interfaces, lambdas, try-catch, listas enlazadas, pilas, colas, árboles binarios.
+
+Usar Gitflow.
+Usar Localización x integrante 1 idioma y Graph Toolkit.
+Hacer diagrama de clases.
+
+Toda excepción controlada
+
+Alvaro - alvaron1113@gmail.com - 1 tipo de torre, clase abstracta de unidad Enemiga, Enemigo 1, Sistema de Juego - Plata por tiempo y Enemigos.
+Francesca - Sally.acorn16@hotmail.com - 1 tipo de torre, texturizado base, interfaz de daño, clase abstracta torre, Enemigo 3
+Benjamin - No sé - Aceptar los pull requests, Enemigo 2, Sistema de Juego - Spawn de Enemigos (Fibonacci x sobre tiempo) y Sistema de Compra de Torres.
