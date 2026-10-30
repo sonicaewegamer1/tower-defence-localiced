@@ -455,6 +455,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: torre ataque
       objectReference: {fileID: 0}
+    - target: {fileID: 7407805021694767025, guid: 3cd7299b9ae0c3a49aba04f987d0d1c3, type: 3}
+      propertyPath: m_Name
+      value: ui
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
