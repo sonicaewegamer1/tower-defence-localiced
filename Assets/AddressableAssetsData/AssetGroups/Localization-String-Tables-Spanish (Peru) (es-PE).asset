@@ -14,8 +14,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
   m_GroupName: Localization-String-Tables-Spanish (Peru) (es-PE)
   m_GUID: 22e14eb34bd89404ba7f3424f8728d0d
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 86153adc18e19944985c46d9d82a900a
+    m_Address: ing and esp_es-PE
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-PE
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: 7aaca1eb89bc03847a99b9355da56899, type: 2}
   m_SchemaSet:
-    m_Schemas: []
+    m_Schemas:
+    - {fileID: 11400000, guid: cb778e2ac58e8c1499b7ba1d7e139501, type: 2}
+    - {fileID: 11400000, guid: 929c5bc557d9fe548a52f402f72bcea5, type: 2}
+    - {fileID: 11400000, guid: 953f2877022935945894ae4c401182f1, type: 2}

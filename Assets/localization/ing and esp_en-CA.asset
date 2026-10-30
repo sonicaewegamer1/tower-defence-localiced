@@ -17,7 +17,47 @@ MonoBehaviour:
   m_SharedData: {fileID: 11400000, guid: 6403738fd67842142a6990de9cbb782e, type: 2}
   m_Metadata:
     m_Items: []
-  m_TableData: []
+  m_TableData:
+  - m_Id: 13812121600
+    m_Localized: Accept
+    m_Metadata:
+      m_Items: []
+  - m_Id: 218955530240
+    m_Localized: Cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 318893211648
+    m_Localized: Save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 434358206464
+    m_Localized: Create tower
+    m_Metadata:
+      m_Items: []
+  - m_Id: 571549696000
+    m_Localized: Delete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 640655048704
+    m_Localized: Edit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 744959000576
+    m_Localized: Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1223034159104
+    m_Localized: attack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1387752865792
+    m_Localized: you won
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1449241362432
+    m_Localized: you lost
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
