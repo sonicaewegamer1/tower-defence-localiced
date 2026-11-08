@@ -17,7 +17,47 @@ MonoBehaviour:
   m_SharedData: {fileID: 11400000, guid: 6403738fd67842142a6990de9cbb782e, type: 2}
   m_Metadata:
     m_Items: []
-  m_TableData: []
+  m_TableData:
+  - m_Id: 13812121600
+    m_Localized: 'Aceptar '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 218955530240
+    m_Localized: 'Cancelar '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 318893211648
+    m_Localized: 'Guardar '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 434358206464
+    m_Localized: crear torre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 571549696000
+    m_Localized: 'Eliminar '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 640655048704
+    m_Localized: 'Editar '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 744959000576
+    m_Localized: Siguiente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1223034159104
+    m_Localized: atacar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1387752865792
+    m_Localized: ganaste
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1449241362432
+    m_Localized: perdiste :C
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
